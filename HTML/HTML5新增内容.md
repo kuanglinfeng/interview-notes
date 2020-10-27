@@ -1,0 +1,6 @@
+- 新语义化标签：header、footer、nav、section、aside、article、main、figure
+- 新增input类型：color、url、email、date、week、time、number、range、search、tel
+- 新增表单控件属性：placeholder/设置文本框默认提示文字、autofocus/自动获得焦点、autocomplete/联想关键词
+- 存储：提供了sessionStorage、localStorage和本地离线存储（使用manifest配置文件）
+- 多媒体：音频元素audio、视频元素vedio、source、embed
+- 地理定位、canvas画布、拖放API、多线程编程的webworker、websocket协议
