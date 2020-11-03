@@ -8,10 +8,6 @@
 
 200 OK：操作成功 GET
 
-201 Created：操作成功 POST
-
-204 No Content：操作成功 DELETE
-
 301 Moved Permanently: 永久重定向。请求的信息已经被移动到新的URI，会返回新的URI
 
 302 Found: 暂时重定向。资源只是临时被移动，客户端继续使用原URI
